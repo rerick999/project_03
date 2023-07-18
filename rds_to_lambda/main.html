@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stock Ticker Comparison</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="form-container">
+      <form>
+        <label for="ticker1">Ticker 1:</label>
+        <input type="text" id="ticker1" name="ticker1">
+        <label for="ticker2">Ticker 2:</label>
+        <input type="text" id="ticker2" name="ticker2">
+      </form>
+      <div class="scrollbar-container">
+        <label for="scrollbar">Select a time period:</label>
+        <input type="range" id="scrollbar" name="scrollbar" min="0" max="100" step="1">
+      </div>
+    </div>
+    <div class="chart-container">
+      <!-- Chart will be displayed here -->
+    </div>
+    <div class="comparison-stats-container">
+      <!-- Comparison statistics will be displayed here -->
+    </div>
+  </body>
+</html>

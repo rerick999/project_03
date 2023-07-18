@@ -1,0 +1,12 @@
+Flask
+itsdangerous
+markupsafe
+jinja2
+gunicorn
+Werkzeug
+beautifulsoup4
+requests
+#yfinance
+geopy
+python-dotenv
+Flask-Caching

@@ -1,0 +1,101 @@
+ticker,shortName,longName,exchange,previousClose
+AAPL,Apple Inc.,Apple Inc.,NMS,190.69
+MSFT,Microsoft Corporation,Microsoft Corporation,NMS,345.24
+GOOG,Alphabet Inc.,Alphabet Inc.,NMS,125.7
+AMZN,"Amazon.com, Inc.","Amazon.com, Inc.",NMS,134.68
+NVDA,NVIDIA Corporation,NVIDIA Corporation,NMS,454.69
+TSLA,"Tesla, Inc.","Tesla, Inc.",NMS,281.38
+BRK-B,Berkshire Hathaway Inc. New,Berkshire Hathaway Inc.,NYQ,341.09
+META,"Meta Platforms, Inc.","Meta Platforms, Inc.",NMS,308.87
+V,Visa Inc.,Visa Inc.,NYQ,243.16
+UNH,UnitedHealth Group Incorporated,UnitedHealth Group Incorporated,NYQ,480.17
+LLY,Eli Lilly and Company,Eli Lilly and Company,NYQ,449.46
+WMT,Walmart Inc.,Walmart Inc.,NYQ,154.66
+JPM,JP Morgan Chase & Co.,JPMorgan Chase & Co.,NYQ,149.77
+JNJ,Johnson & Johnson,Johnson & Johnson,NYQ,159.87
+XOM,Exxon Mobil Corporation,Exxon Mobil Corporation,NYQ,100.94
+MA,Mastercard Incorporated,Mastercard Incorporated,NYQ,402.51
+PG,Procter & Gamble Company (The),The Procter & Gamble Company,NYQ,150.05
+AVGO,Broadcom Inc.,Broadcom Inc.,NMS,888.58
+ORCL,Oracle Corporation,Oracle Corporation,NYQ,119.27
+HD,"Home Depot, Inc. (The)","The Home Depot, Inc.",NYQ,316.5
+MRK,"Merck & Company, Inc.","Merck & Co., Inc.",NYQ,107.34
+CVX,Chevron Corporation,Chevron Corporation,NYQ,153.58
+KO,Coca-Cola Company (The),The Coca-Cola Company,NYQ,60.9
+PEP,"Pepsico, Inc.","PepsiCo, Inc.",NMS,188.21
+ABBV,AbbVie Inc.,AbbVie Inc.,NYQ,136.01
+COST,Costco Wholesale Corporation,Costco Wholesale Corporation,NMS,546.7
+BAC,Bank of America Corporation,Bank of America Corporation,NYQ,29.11
+ADBE,Adobe Inc.,Adobe Inc.,NMS,514.83
+MCD,McDonald's Corporation,McDonald's Corporation,NYQ,294.94
+CSCO,"Cisco Systems, Inc.","Cisco Systems, Inc.",NMS,50.38
+CRM,"Salesforce, Inc.","Salesforce, Inc.",NYQ,229.33
+PFE,"Pfizer, Inc.",Pfizer Inc.,NYQ,36.32
+TMO,Thermo Fisher Scientific Inc,Thermo Fisher Scientific Inc.,NYQ,529.36
+NFLX,"Netflix, Inc.","Netflix, Inc.",NMS,441.91
+ABT,Abbott Laboratories,Abbott Laboratories,NYQ,107.93
+AMD,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc.",NMS,115.94
+DHR,Danaher Corporation,Danaher Corporation,NYQ,240.53
+CMCSA,Comcast Corporation,Comcast Corporation,NMS,42.01
+TMUS,"T-Mobile US, Inc.","T-Mobile US, Inc.",NMS,139.68
+NKE,"Nike, Inc.","NIKE, Inc.",NYQ,107.95
+DIS,Walt Disney Company (The),The Walt Disney Company,NYQ,88.62
+WFC,Wells Fargo & Company,Wells Fargo & Company,NYQ,43.56
+TXN,Texas Instruments Incorporated,Texas Instruments Incorporated,NMS,180.85
+VZ,Verizon Communications Inc.,Verizon Communications Inc.,NYQ,34.01
+UPS,"United Parcel Service, Inc.","United Parcel Service, Inc.",NYQ,185.26
+PM,Philip Morris International Inc,Philip Morris International Inc.,NYQ,99.5
+NEE,"NextEra Energy, Inc.","NextEra Energy, Inc.",NYQ,73.2
+RTX,Raytheon Technologies Corporati,Raytheon Technologies Corporation,NYQ,96.17
+MS,Morgan Stanley,Morgan Stanley,NYQ,85.78
+INTC,Intel Corporation,Intel Corporation,NMS,33.15
+HON,Honeywell International Inc.,Honeywell International Inc.,NMS,206.14
+BMY,Bristol-Myers Squibb Company,Bristol-Myers Squibb Company,NYQ,61.94
+LOW,"Lowe's Companies, Inc.","Lowe's Companies, Inc.",NYQ,228.74
+QCOM,QUALCOMM Incorporated,QUALCOMM Incorporated,NMS,122.56
+BA,Boeing Company (The),The Boeing Company,NYQ,213.12
+AXP,American Express Company,American Express Company,NYQ,173.39
+SPGI,S&P Global Inc.,S&P Global Inc.,NYQ,416.02
+INTU,Intuit Inc.,Intuit Inc.,NMS,483.99
+CAT,"Caterpillar, Inc.",Caterpillar Inc.,NYQ,255.62
+UNP,Union Pacific Corporation,Union Pacific Corporation,NYQ,210.99
+COP,ConocoPhillips,ConocoPhillips,NYQ,107.09
+IBM,International Business Machines,International Business Machines Corporation,NYQ,133.4
+AMAT,"Applied Materials, Inc.","Applied Materials, Inc.",NMS,142.74
+AMGN,Amgen Inc.,Amgen Inc.,NMS,227.43
+DE,Deere & Company,Deere & Company,NYQ,414.61
+GE,General Electric Company,General Electric Company,NYQ,110.28
+LMT,Lockheed Martin Corporation,Lockheed Martin Corporation,NYQ,464.31
+ISRG,"Intuitive Surgical, Inc.","Intuitive Surgical, Inc.",NMS,354.0
+PLD,"Prologis, Inc.","Prologis, Inc.",NYQ,127.75
+T,AT&T Inc.,AT&T Inc.,NYQ,14.5
+NOW,"ServiceNow, Inc.","ServiceNow, Inc.",NYQ,580.38
+SYK,Stryker Corporation,Stryker Corporation,NYQ,302.43
+SBUX,Starbucks Corporation,Starbucks Corporation,NMS,101.61
+GS,"Goldman Sachs Group, Inc. (The)","The Goldman Sachs Group, Inc.",NYQ,326.19
+ELV,"Elevance Health, Inc.","Elevance Health, Inc.",NYQ,438.73
+BLK,"BlackRock, Inc.","BlackRock, Inc.",NYQ,728.03
+SCHW,Charles Schwab Corporation (The,The Charles Schwab Corporation,NYQ,58.52
+MDLZ,"Mondelez International, Inc.","Mondelez International, Inc.",NMS,72.28
+BKNG,Booking Holdings Inc. Common St,Booking Holdings Inc.,NMS,2866.92
+TJX,"TJX Companies, Inc. (The)","The TJX Companies, Inc.",NYQ,84.92
+GILD,"Gilead Sciences, Inc.","Gilead Sciences, Inc.",NMS,77.19
+ADI,"Analog Devices, Inc.","Analog Devices, Inc.",NMS,191.97
+MMC,"Marsh & McLennan Companies, Inc","Marsh & McLennan Companies, Inc.",NYQ,186.72
+ADP,"Automatic Data Processing, Inc.","Automatic Data Processing, Inc.",NMS,229.47
+AMT,American Tower Corporation (REI,American Tower Corporation,NYQ,193.97
+CVS,CVS Health Corporation,CVS Health Corporation,NYQ,71.38
+VRTX,Vertex Pharmaceuticals Incorpor,Vertex Pharmaceuticals Incorporated,NMS,352.74
+C,"Citigroup, Inc.",Citigroup Inc.,NYQ,45.75
+UBER,"Uber Technologies, Inc.","Uber Technologies, Inc.",NYQ,44.75
+LRCX,Lam Research Corporation,Lam Research Corporation,NMS,638.56
+CI,The Cigna Group,The Cigna Group,NYQ,282.76
+HCA,"HCA Healthcare, Inc.","HCA Healthcare, Inc.",NYQ,296.56
+MO,"Altria Group, Inc.","Altria Group, Inc.",NYQ,45.49
+ABNB,"Airbnb, Inc.","Airbnb, Inc.",NMS,143.34
+ZTS,Zoetis Inc.,Zoetis Inc.,NYQ,172.19
+PGR,Progressive Corporation (The),The Progressive Corporation,NYQ,116.79
+PANW,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc.",NMS,241.26
+FI,"Fiserv, Inc.","Fiserv, Inc.",NYQ,128.0
+REGN,"Regeneron Pharmaceuticals, Inc.","Regeneron Pharmaceuticals, Inc.",NMS,718.52
+SO,Southern Company (The),The Southern Company,NYQ,71.38

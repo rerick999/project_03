@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+  website:
+    build: .
+    working_dir: /website
+    command: >
+      gunicorn -b 0.0.0.0:8080
+        --access-logfile -
+        --reload
+        "website.app:create_app()"
+    volumes:
+      - '.:/website'
+    ports:
+      - '8080:8080'

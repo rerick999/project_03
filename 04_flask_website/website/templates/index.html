@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Our Project 3</title>
+
+  <!-- jquery -->
+  <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Our Project 3</h1>
+  
+    <ol>
+    <li><a  target="_blank" href="{{url_for('static', filename='map_one/map.html')}}">Leaflet map showing top 100 US corporations by market capitalization (colors indicate quick ratios)</a></li>
+
+    <li><a  target="_blank" href="{{url_for('static', filename='bar_chart/bar_chart.html')}}">Bar chart showing top 100 US corporations by market capitalization (colors indicate quick ratios)</a></li>
+
+    <li><a  target="_blank" href="{{url_for('static', filename='visualizations/viz_index.html')}}">Dashboard</a></li>
+  </ol>
+ 
+   <ol>
+    <li>
+		<button
+		  type="button"
+		  class="btn btn-primary"
+		  onclick="btnGeojson()"
+		>get new geojson data</button>
+	</li>  
+
+
+<script>
+	var btnGeojson = function() {
+		alert('starting geojson scraper');
+	  $.get('/get_geojson',
+		function(x) {
+		  $("#resBtnHere1").html(x);
+		}
+	  )
+	}
+	
+</script>
+</body>
+
+</html>

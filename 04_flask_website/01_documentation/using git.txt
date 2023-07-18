@@ -1,0 +1,5 @@
+The main commands to be used are
+1) git pull
+2) git add .
+3) git commit -m "<your message here>"
+4) git push

@@ -1,0 +1,4 @@
+{
+    "SECRET_KEY": "Some secret key",
+    "FLASK_ENV": "development"
+}

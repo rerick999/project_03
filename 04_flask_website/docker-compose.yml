@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  website:
+    build: .
+    working_dir: /website
+    volumes:
+      - '.:/website'
+    ports:
+      - '8080:8080'

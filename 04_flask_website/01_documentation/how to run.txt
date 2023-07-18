@@ -1,0 +1,7 @@
+1) make sure you have docker desktop loaded and running
+2) double click the 01_run_this... batch file
+	a) it contains the commands 
+		docker-compose build
+		docker-compose up
+		pause
+3) clear out the old images as needed using docker desktop

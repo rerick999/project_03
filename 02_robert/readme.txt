@@ -1,0 +1,2 @@
+python folder contains a modified scraper that places data.geojson in the leaflet folder
+leaflet folder has a main file of "index.html" which uses leaflet to map the top 100 corporations using the data found in data.geojson
